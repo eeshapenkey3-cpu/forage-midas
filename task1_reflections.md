@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Implemented Engineering Solutions
+## Implemented Engineering Solutions
 
 ### 1. Configuration Declarations via `pom.xml`
 * **Resolution:** Manual inclusion of the required development and runtime infrastructure blocks directly into the project's Project Object Model file.
